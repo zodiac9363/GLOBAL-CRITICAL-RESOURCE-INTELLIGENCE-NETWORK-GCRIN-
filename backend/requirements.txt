@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+apscheduler
+pydantic
+pydantic-settings
+requests
+spacy
+langdetect
+vaderSentiment
+deep-translator
+python-dotenv
